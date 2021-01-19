@@ -7,7 +7,7 @@ Sorry about the mess around here. I'm a developer. Also a designer. And also a m
 
 Ok... so... for years I have been working with technology. Some of these years I was writing, others I was welding and burning LEDs...  lately I have been programming a lot.
 
-I have been exploring the field of automation and interactions with sensors, VR interfaces, and chatbots. And Lately I have been working with web technologies too, such as TypeScript, Node.js, Reactjs, and React Native. 
+I have been exploring the field of automation and interactions with sensors, VR interfaces, and chatbots. Some of my works were in temporary exhibitions at the Museum of Tomorrow, in Rio de Janeiro. In recent years I have been doing a lot of work with web technologies, such as TypeScript, Node.js, Reactjs, and React Native. 
 
 And... 
 
