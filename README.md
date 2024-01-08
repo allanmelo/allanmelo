@@ -19,8 +19,3 @@ So...
  💬 Ask me about Javascript, Full-Stack Development, Backend, Docker, Dev-Ops, Sensors, Arduinos, Raspberrys, and any Artsy-tech-related stuff.
  
  📫 Reach me on [LinkedIn](https://www.linkedin.com/in/allanmelo/) or send me a message by email: hello @allanmelo com :)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=allanmelo&show_icons=true&hide_border=true)
-
